@@ -1,0 +1,17 @@
+{
+  "name": "ask-me-anything",
+  "version": "1.0.0",
+  "description": "a forum app",
+  "main": "index.js",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guilherme Cheng",
+  "license": "ISC"
+}
